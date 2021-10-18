@@ -1,16 +1,18 @@
-# html-letter-template
-Вёрстка макета на таблицах. как в 1997, когда я в детский сад ходила
+# [html-letter-template](https://revidovich.github.io/html-letter-template/)
 
-<img href='/example.jpg'>
+Вёрстка макета на таблицах:
 
-Тестирование в почтовых клиентах
-Outlook 2003/2007
-Hotmail
-Yahoo! Mail
-Gmail
-Apple Mail
-Thunderbird
+<img src='/example.jpg'>
 
-Mailchimp 
-Campaign Monitor
-Litmus
+Тестирование в почтовых клиентах:
+- Outlook 2003/2007
+- Hotmail
+- Yahoo! Mail
+- Gmail
+- Apple Mail
+- Thunderbird  
+
+Сервисы:
+- Mailchimp   
+- Campaign Monitor  
+- Litmus  
